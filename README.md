@@ -1,9 +1,19 @@
-# Proyek Akhir VSGA JWD 2022
-**Proyek Sistem Informasi Perpustakaan** merupakan proyek akhir yang dikerjakan oleh peserta VSGA JWD 2022. Proyek yang disediakan pada repositori ini, 50% sumber kode telah disediakan oleh instruktur, sehingga peserta pelatihan dapat melengkapi sumber kode sampai dengan 100% dengan melihat sebagian contoh sumber kode yang telah disediakan tersebut.
+# Proyek UAS WEB KELOMPOK 5/ D3
+**Proyek Sistem Informasi Perpustakaan** merupakan proyek Ujian Akhir Semester yang dikerjakan oleh mahasiswa jenjang D3 STMIK Mardira Indonesia 2023. 
+Nama Anggota :
+1. Neli Linanti
+2. Siti Nurhasanah (22020053 - MI-D3)
+3. Navariza Navan java
+4. Decil Marchio
+5. Siti Khoirunnisa
+6. Syifa Raditya
+7. Sri Rahmawati
 
 Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#proyek-5) dan [Proyek 6](#proyek-6), yang akan dijelaskan lebih detil di bawah. Setiap proyek terdiri dari beberapa task.
 
 ## Prasyarat
+- Laravel versi 9
+- Bootstrap v.4.0
 - PHP minimal versi 7.2.x
 - Web Server: Apache/NginX
 - DBMS: MySQL/MariaDB 
